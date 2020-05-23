@@ -20,7 +20,7 @@
 		<li>Dispneia: 30-40% </li>
 		<li>Sintomas gastrointestinais: 10%</li>
 	</ul>
-	<img src="https://pbs.twimg.com/media/ETPONUhXsAQ16GD.jpg >
+	<img src="https://pbs.twimg.com/media/ETPONUhXsAQ16GD.jpg">
 	<BR>
 	<br>
 	<br>
