@@ -28,8 +28,8 @@
 	<table border="1">
 		<tr >
 			<td>PORTAL DO CORONAVÍRUS</td>
-			<td> <a href="file:///C:/Users/mathe/Desktop/Atividades/PORTALCORONA.html">
-				file:///C:/Users/mathe/Desktop/Atividades/PORTALCORONA.html				
+			<td> <a href="https://matheuseqc.github.io/PORTALCORONAVIRUS/">
+				https://matheuseqc.github.io/PORTALCORONAVIRUS/				
 			    </a> </td>
 		</tr>
 		<tr>
