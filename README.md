@@ -20,7 +20,7 @@
 		<li>Dispneia: 30-40% </li>
 		<li>Sintomas gastrointestinais: 10%</li>
 	</ul>
-	<img src="https://www.mpce.mp.br/wp-content/uploads/2020/03/Hotsite-07.png">
+	<img src="https://www.mpce.mp.br/wp-content/uploads/2020/03/Hotsite-07.png width="360" height="205">
 	<BR>
 	<br>
 	<br>
